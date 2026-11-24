@@ -62,6 +62,8 @@ Configuration is separated by concern: the database connection, the mail transpo
 
 Clone the repository, install the dependencies with `npm install`, and copy the example environment file to `.env` and fill in your MySQL details, an API key and an SMTP account. Create the database named in that file, then run the SQL scripts in the `sql` folder against it. Start the service with `npm start` and it will listen on port 8000, or on the port you set. The Android client is a separate repository and needs the same API key in its own configuration so the two agree.
 
+The matching Android client is [Anuoluwapo36/ProjectAethera](https://github.com/Anuoluwapo36/ProjectAethera).
+
 ## License
 
 MIT. See the `LICENSE` file for the full text.
