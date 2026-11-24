@@ -72,6 +72,6 @@ MIT. See the `LICENSE` file for the full text.
 
 **Anuoluwapo Majekobaje Emmanuel** (马杰)
 
-International student in China · Computer Science · Nanchang University
+International student in China · Computer Science · Jiangxi Institue of Technology
 
 Built as an independent full-stack project to design and deliver a working REST API, relational data model and Android client end to end.
